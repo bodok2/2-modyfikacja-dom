@@ -1,0 +1,22 @@
+.box {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+    clear: both;
+    transition: background-color 5000ms ease-in;
+}
+
+.btn {
+    width: 100px;
+    height: 50px;
+    
+}
+
+h2 {
+    display: none;
+    text-align: center;
+    font-size: medium;
+    color: white;
+}
